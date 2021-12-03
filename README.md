@@ -1,6 +1,6 @@
 # Time-series-analysis
 ### Name of the project: Analysing and predicting the Istanbul stock market dataset
-##### Repository: UCI machine learning repository 
+#### Repository: UCI machine learning repository 
 #### About: 
 - The objective of this project is to **predict the value of a stock exchange**, when the values of 
 the other stock exchanges are given. Using statistical models like ARIMA, VAR and machine 
@@ -18,13 +18,15 @@ learning models like XGBoost, trying to find the model for best prediction.
     5) Project Report - [Link](https://github.com/JayB-7/Time-series-analysis/blob/main/project_report.pdf)
 
 
-##### Glimpse of the project:
+#### Glimpse of the project:
 1) About the data: 
 
 <img src="readme_templates/time-series-3.png" width="500" height="320"/>
+
 2) Working diagram of the XgBoost model:
 
 <img src="readme_templates/time-series-1.PNG" width="500" height="320"/>
+
 3) Predictive Function:
 
 <img src="readme_templates/time-series-2.png" width="500" height="320"/>
