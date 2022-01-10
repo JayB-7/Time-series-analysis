@@ -21,7 +21,7 @@ learning models like XGBoost, trying to find the model for best prediction.
 #### Glimpse of the project:
 1) About the data    |    2) Working diagram of the XgBoost model
 
-<img src="readme_templates/time-series-3.png" width="500" height="320"/> <img src="readme_templates/time-series-1.PNG" width="500" height="320"/>
+<img src="readme_templates/time-series-3.png" width="600" height="400"/> <img src="readme_templates/time-series-1.PNG" width="600" height="400"/>
 
 3) Predictive Function:
 
